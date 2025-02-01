@@ -1,4 +1,4 @@
-baseURL = "https://jonahparrish.github.io/"
+baseURL = "https://jonahparrish.github.io"
 defaultContentLanguage = "en"
 # Automatically generate robots.txt
 enableRobotsTXT = true
