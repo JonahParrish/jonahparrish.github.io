@@ -19,9 +19,14 @@ title = "Jonah Parrish"
     weight = 1
 
   [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+  [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
     
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
@@ -30,7 +35,7 @@ title = "Jonah Parrish"
 
     # Absolute URL to external resource
     url = "https://github.com/JonahParrish"
-    weight = 3
+    weight = 4
     
     # Surround the menu entry (or name) with HTML content, such as Feather
     # icons: https://feathericons.com
