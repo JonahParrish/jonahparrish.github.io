@@ -1,0 +1,4 @@
+baseURL = 'https://jonahparrish.github.io/'
+languageCode = 'en-us'
+title = 'Jonah Parrish'
+theme = 'ananke'
