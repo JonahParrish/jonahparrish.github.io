@@ -9,3 +9,6 @@ title: "My First Post"
 type: "post"
 tags: ["post"]
 ---
+# Post Title
+## Header 1
+Body of post
