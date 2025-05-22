@@ -12,3 +12,11 @@ tags: ["post"]
 # Post Title
 ## Header 1
 This is a test.
+
+{{< note >}}
+This is a simple note box you can use to highlight info.
+{{< /note >}}
+
+{{< warning >}}
+Be careful with this setting!
+{{< /warning >}}
